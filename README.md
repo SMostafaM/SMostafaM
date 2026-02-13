@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/user-attachments/assets/8b924a9f-7ce7-4070-a5f3-f373ebfb64e6">
 
-p align="center">
+<p align="center">
   <strong>S. Mostafa</strong><br>
   Backend & Automation Web Developer | Python & .NET<br>
   📍 Iran | 🔗 <a href="https://github.com/SMostafaM">GitHub</a>
