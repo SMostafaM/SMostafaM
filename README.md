@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend and Automation Web Developer with hands-on experience in RESTful APIs, web scraping, and browser automation using Python (FastAPI, Flask, Requests, Selenium, Playwright, BeautifulSoup) and .NET (ASP.NET Core). Experienced in containerization using Docker and working with MongoDB and SQL Server databases. Familiar with machine learning concepts and actively leveraging AI tools to improve code quality and optimize development workflows. Working knowledge of HTML & CSS.
+  Backend and Automation Web Developer with hands-on experience in RESTful APIs, web scraping, and browser automation using Python (FastAPI, Flask, Requests, Selenium, Playwright, BeautifulSoup) and .NET (ASP.NET Core). Experienced with MongoDB and SQL Server databases. Familiar with machine learning concepts and actively leveraging AI tools to improve code quality and optimize development workflows. Working knowledge of HTML & CSS.
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-00569C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -32,12 +31,12 @@
 
 <p align="center">
   <strong>Core Strengths:</strong><br>
-  Backend API Development | Web Scraping & Browser Automation | Data Processing & Storage | Dockerized Deployments | Performance Optimization | Code Refactoring & Quality Improvement | AI-Enhanced Development
+  Backend API Development | Web Scraping & Browser Automation | Data Processing & Storage | Performance Optimization | Code Refactoring & Quality Improvement | AI-Enhanced Development
 </p>
 
 <p align="center">
   <strong>Sample Projects:</strong><br>
-  <em>Web Scraper & Automation API:</em> Selenium & Playwright automation, FastAPI/Flask endpoints, MongoDB data storage, Dockerized setup.<br>
+  <em>Web Scraper & Automation API:</em> Selenium & Playwright automation, FastAPI/Flask endpoints, MongoDB data storage.<br>
   <em>Backend Service with .NET & SQL Server:</em> CRUD APIs, authentication, error handling, SQL Server integration.<br>
   <em>AI-Assisted Code Optimization:</em> AI tools to refactor and improve Python & .NET code.
 </p>
