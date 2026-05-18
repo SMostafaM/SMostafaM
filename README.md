@@ -1,3 +1,9 @@
+<h2 align="center">Backend & Automation Developer</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b924a9f-7ce7-4070-a5f3-f373ebfb64e6" width="100%" />
+</p>
+
 <p align="center">
   <strong>S. Mostafa</strong><br>
   Backend & Automation Developer | Python & .NET<br>
