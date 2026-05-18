@@ -40,7 +40,7 @@ Backend API Development • FastAPI & Flask Development • ASP.NET Core APIs �
 <h3 align="center">Sample Projects</h3>
 <p align="center">
 <p align="center"><strong >Automation & Scraping Systems</strong><br></p>
-Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.<br><br>
+<p align="center">Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.<br><br></p>
 
 <p align="center"><strong >Python Backend APIs</strong><br></p>
 <p align="center">Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.<br><br>
