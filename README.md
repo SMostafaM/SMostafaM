@@ -42,17 +42,17 @@ Backend API Development • FastAPI & Flask Development • ASP.NET Core APIs �
 <strong>Automation & Scraping Systems</strong><br>
 Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.<br><br>
 
-<strong>Python Backend APIs</strong><br>
-Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.<br><br>
-
-<strong>.NET Backend Services</strong><br>
-Built backend APIs and database-driven services using ASP.NET Core and SQL Server.<br><br>
-
-<strong>Django & PostgreSQL Project</strong><br>
-Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.<br><br>
-
-<strong>AI-Assisted Development</strong><br>
-Leveraged AI tools for debugging, optimization, refactoring, and improving development workflows.
+<strong </p>>Python Backend APIs</strong><br>
+<p align="center">Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.<br><br>
+</p>
+<strong align="center">.NET Backend Services</strong><br>
+<p align="center">Built backend APIs and database-driven services using ASP.NET Core and SQL Server.<br><br>
+</p>
+<strong align="center">Django & PostgreSQL Project</strong><br>
+<p align="center">Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.<br><br>
+</p>
+<strong align="center">AI-Assisted Development</strong><br>
+<p align="center">Leveraged AI tools for debugging, optimization, refactoring, and improving development workflows.
 </p>
 
 <h3 align="center">Suitable Roles</h3>
