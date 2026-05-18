@@ -30,32 +30,45 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-61DAFB?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-Assisted%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Core Strengths:</strong><br>
-  Backend API Development | FastAPI & Flask Development | ASP.NET Core APIs | Django Backend Development | Web Scraping & Browser Automation | Automation Tools & Bots | MongoDB Integration | PostgreSQL & SQL Server | API Integration | Data Collection & Processing | Code Refactoring & Optimization | AI-Assisted Development
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Sample Projects:</strong><br>
+### Core Strengths
 
-  <em>Automation & Scraping Systems:</em> Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.<br><br>
+Backend API Development • FastAPI & Flask Development • ASP.NET Core APIs • Django Backend Development • Web Scraping & Browser Automation • Automation Tools & Bots • MongoDB Integration • PostgreSQL & SQL Server • API Integration • Data Collection & Processing • Code Refactoring & Optimization • AI-Assisted Development
 
-  <em>Python Backend APIs:</em> Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.<br><br>
+</div>
 
-  <em>.NET Backend Services:</em> Built backend APIs and database-driven services using ASP.NET Core and SQL Server.<br><br>
+<div align="center">
 
-  <em>Django & PostgreSQL Project:</em> Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.<br><br>
+### Sample Projects
 
-  <em>AI-Assisted Development:</em> Leveraged AI tools for debugging, optimization, refactoring, and improving development workflows.
-</p>
+**Automation & Scraping Systems**  
+Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.
 
-<p align="center">
-  <strong>Suitable Roles:</strong><br>
-  Python Backend Developer | .NET Backend Developer | Backend API Developer | Automation Engineer | Web Scraping Engineer | Data Collection Developer
-</p>
+**Python Backend APIs**  
+Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.
+
+**.NET Backend Services**  
+Built backend APIs and database-driven services using ASP.NET Core and SQL Server.
+
+**Django & PostgreSQL Project**  
+Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.
+
+**AI-Assisted Development**  
+Leveraged AI tools for debugging, optimization, refactoring, and improving development workflows.
+
+</div>
+
+<div align="center">
+
+### Suitable Roles
+
+Python Backend Developer • .NET Backend Developer • Backend API Developer • Automation Engineer • Web Scraping Engineer • Data Collection Developer
+
+</div>
