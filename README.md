@@ -7,7 +7,7 @@
 <p align="center">📍 Iran | 🔗 <a href="https://github.com/username">GitHub</a></p>
 
 <p align="center">
-Backend and Automation Developer with strong experience in backend API development, web scraping, and browser automation using Python and .NET technologies. Skilled in building scalable APIs with FastAPI, Flask, and ASP.NET Core, as well as automation and data extraction systems using Selenium, Playwright, Requests, and BeautifulSoup. Strong experience with MongoDB and working knowledge of PostgreSQL and SQL Server. Experienced with Django for backend development, authentication workflows, and SMS-based user registration systems. Also interested in AI-assisted development workflows for improving code quality, debugging, and optimization.
+Backend and Automation Developer with strong experience in backend API development, web scraping, browser automation, and distributed systems using Python and .NET technologies. Skilled in building scalable APIs with FastAPI, Flask, Django, and ASP.NET Core, as well as automation and data extraction systems using Selenium, Playwright, Requests, and BeautifulSoup. Experienced in working with MongoDB, Redis, PostgreSQL, and SQL Server. Familiar with event-driven architectures and asynchronous processing using Apache Kafka. Experienced with authentication workflows, SMS-based user registration systems, caching strategies, message queues, and AI-assisted development workflows for improving code quality, debugging, and optimization.
 </p>
 
 <p align="center">
@@ -18,10 +18,12 @@ Backend and Automation Developer with strong experience in backend API developme
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
   <img src="https://img.shields.io/badge/Requests-00599C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -34,28 +36,42 @@ Backend and Automation Developer with strong experience in backend API developme
 
 <h3 align="center">Core Strengths</h3>
 <p align="center">
-Backend API Development • FastAPI & Flask Development • ASP.NET Core APIs • Django Backend Development • Web Scraping & Browser Automation • Automation Tools & Bots • MongoDB Integration • PostgreSQL & SQL Server • API Integration • Data Collection & Processing • Code Refactoring & Optimization • AI-Assisted Development
+Backend API Development • FastAPI & Flask Development • ASP.NET Core APIs • Django Backend Development • Web Scraping & Browser Automation • Automation Tools & Bots • MongoDB Integration • Redis Caching • Apache Kafka Messaging • PostgreSQL & SQL Server • API Integration • Data Collection & Processing • Distributed Systems • Code Refactoring & Optimization • AI-Assisted Development
 </p>
 
 <h3 align="center">Sample Projects</h3>
-<p align="center">
-<p align="center"><strong >Automation & Scraping Systems</strong><br></p>
-<p align="center">Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.<br><br></p>
 
-<p align="center"><strong >Python Backend APIs</strong><br></p>
-<p align="center">Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.<br><br>
+<p align="center">
+<strong>Automation & Scraping Systems</strong><br>
+Built automation workflows and web scraping services using Selenium, Playwright, Requests, and BeautifulSoup with API integrations and MongoDB storage.
 </p>
-<p align="center"><strong >.NET Backend Services</strong><br></p>
-<p align="center">Built backend APIs and database-driven services using ASP.NET Core and SQL Server.<br><br>
+
+<p align="center">
+<strong>Python Backend APIs</strong><br>
+Developed RESTful APIs and backend services using FastAPI and Flask for automation and data-driven applications.
 </p>
-<p align="center"><strong >Django & PostgreSQL Project</strong><br></p>
-<p align="center">Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.<br><br>
+
+<p align="center">
+<strong>.NET Backend Services</strong><br>
+Built backend APIs and database-driven services using ASP.NET Core and SQL Server.
 </p>
-<p align="center"><strong >AI-Assisted Development</strong><br></p>
-<p align="center">Leveraged AI tools for debugging, optimization, refactoring, and improving development workflows.
+
+<p align="center">
+<strong>Django & PostgreSQL Project</strong><br>
+Developed backend features including phone number authentication, SMS integration, and user registration workflows using Django and PostgreSQL.
+</p>
+
+<p align="center">
+<strong>Redis & Kafka Integration</strong><br>
+Implemented caching, background processing, event-driven communication, and asynchronous workflows using Redis and Apache Kafka to improve application performance, scalability, and reliability.
+</p>
+
+<p align="center">
+<strong>AI-Assisted Development</strong><br>
+Leveraged AI tools for debugging, optimization, refactoring, code review, and improving development workflows.
 </p>
 
 <h3 align="center">Suitable Roles</h3>
 <p align="center">
-Python Backend Developer • .NET Backend Developer • Backend API Developer • Automation Engineer • Web Scraping Engineer • Data Collection Developer
+Python Backend Developer • .NET Backend Developer • Backend API Developer • Distributed Systems Developer • Automation Engineer • Web Scraping Engineer • Data Collection Developer
 </p>
